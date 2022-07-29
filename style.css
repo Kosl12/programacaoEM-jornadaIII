@@ -3,7 +3,7 @@ h1 {
     background: rgb(0, 255, 200);
 }
 
-p {
+body {
     text-align: center;
-    background: lawngreen;
+    background: rgba(112, 112, 114, 0.616);
 }
