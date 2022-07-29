@@ -1,7 +1,9 @@
 h1 {
-    text-align: center
+    text-align: center;
+    background-color: blue;
 }
 
 p {
-    text-align: center
+    text-align: center;
+    background-color: lawngreen;
 }
