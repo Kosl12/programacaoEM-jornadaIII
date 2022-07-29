@@ -1,9 +1,9 @@
-h1 {
-    text-align: center;
-    background: rgb(0, 255, 200);
-}
-
 body {
     text-align: center;
     background: rgba(112, 112, 114, 0.616);
+}
+
+h1 {
+    text-align: center;
+    background: rgb(0, 255, 200);
 }
