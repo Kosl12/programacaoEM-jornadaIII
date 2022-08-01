@@ -1,20 +1,20 @@
 body {
-    background: rgba(144, 144, 146, 0.288);
+    background: #ACBCDC;
 }
 
 h1 {
     text-align: center;
-    color: rgb(58, 211, 231);
+    color: #FAA982;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
     font-size: 35px; 
     text-align: center;
-    color: rgb(58, 211, 231);
+    color: #FAA982;
 }
 
 h3 {
     text-align: center;
-    color: rgb(58, 211, 231);
+    color: #FAA982;
 }
