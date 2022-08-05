@@ -20,6 +20,10 @@ p {
     text-align: justify;
 }
 
+#1 {
+    color:lime;
+}
+
 h2 {
     font-size: 35px; 
     text-align: center;
