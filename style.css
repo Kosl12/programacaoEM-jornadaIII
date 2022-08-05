@@ -12,9 +12,10 @@ h1 {
     color: #0B7B84;
     font-family: Arial, Helvetica, sans-serif;
     height: 120px;
+    border-bottom-width: 10px;
     border-width: medium;
-    border: solid;
-    border-color:rgb(241, 245, 10);
+    border-style: solid;
+    border-color:rgb(235, 175, 12);
 }
 
 h2 {
