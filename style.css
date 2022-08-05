@@ -16,6 +16,10 @@ h1 {
     border-color:rgb(29, 235, 12);
 }
 
+p {
+    text-align: justify;
+}
+
 h2 {
     font-size: 35px; 
     text-align: center;
