@@ -2,6 +2,8 @@ body {
     width: 97%;
     height: 97%;
     background: #C4C3CC;
+    font: normal 16px Arial, Verdana, Serif;
+    text-align: justify;
 }
 
 #foto1 { 
@@ -10,57 +12,45 @@ body {
     border-radius: 10px;
 }
 
-p {
-    text-align: justify;
-}
-
 strong {
     color: #2C58D7
 }
 
+p {
+    text-indent: 20px;
+}
+
 h1 {
+    font-size: 23px;
     text-align: center;
     color: #E29C1C;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .borda1 {
-    border: center;
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 50px;
-    margin-left: 39%;
-    margin-right: 39%;
+    margin-left: 580px;
+    margin-right: 580px;
     margin-top: 4px;
 }
 
 h2 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 23px; 
     text-align: center;
     color: #E29C1C;
 }
 
-#texto1 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#texto2 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 .borda2 {
-    border: center;
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 50px;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 430px;
+    margin-right: 430px;
     margin-top: 4px;
 }
 
 h3 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 23px; 
     text-align: center;
     color: #E29C1C;
@@ -71,40 +61,21 @@ h3 {
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 50px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 330px;
+    margin-right: 330px;
     margin-top: 4px;
 }
 
-#texto3 {
-   font-family: Arial, Helvetica, sans-serif;
-}
-
-#texto4 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 h4 {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: left;
     color: #E29C1C;
     font-size: 23px;
 }
 
 .borda4 {
-    border: center;
     border-style: solid;
     border-color:#A32B0F;
-    border-radius: 50px;
-    margin-left: 42%;
-    margin-right: 42%;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 1155px;
     margin-top: 4px;
-}
-
-#texto5 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#texto6 {
-    font-family: Arial, Helvetica, sans-serif;
 }
