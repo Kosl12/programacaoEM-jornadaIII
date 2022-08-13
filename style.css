@@ -12,12 +12,17 @@ body {
     border-radius: 10px;
 }
 
+#foto2 {
+    width: 100px;
+    margin-left: 100px;
+}
+
 strong {
     color: #2C58D7
 }
 
 p {
-    text-indent: 20px;
+    text-indent: 12px;
 }
 
 h1 {
@@ -57,7 +62,6 @@ h3 {
 }
 
 .borda3 {
-    border: center;
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 10px;
