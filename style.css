@@ -29,9 +29,9 @@ h1 {
 .borda1 {
     border-style: solid;
     border-color:#A32B0F;
-    border-radius: 50px;
-    margin-left: 580px;
-    margin-right: 580px;
+    border-radius: 10px;
+    margin-left: 590px;
+    margin-right: 590px;
     margin-top: 4px;
 }
 
@@ -44,9 +44,9 @@ h2 {
 .borda2 {
     border-style: solid;
     border-color:#A32B0F;
-    border-radius: 50px;
-    margin-left: 430px;
-    margin-right: 430px;
+    border-radius: 10px;
+    margin-left: 440px;
+    margin-right: 440px;
     margin-top: 4px;
 }
 
@@ -60,9 +60,9 @@ h3 {
     border: center;
     border-style: solid;
     border-color:#A32B0F;
-    border-radius: 50px;
-    margin-left: 330px;
-    margin-right: 330px;
+    border-radius: 10px;
+    margin-left: 340px;
+    margin-right: 340px;
     margin-top: 4px;
 }
 
@@ -76,6 +76,6 @@ h4 {
     border-color:#A32B0F;
     border-radius: 10px;
     margin-left: 20px;
-    margin-right: 1155px;
+    margin-right: 1165px;
     margin-top: 4px;
 }
