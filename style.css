@@ -1,7 +1,7 @@
 body {
     width: 97%;
     height: 97%;
-    background: #C4C3CC;
+    \\background: #C4C3CC;
     font: normal 16px Arial, Verdana, Serif;
     text-align: justify;
 }
@@ -12,9 +12,9 @@ body {
     border-radius: 10px;
 }
 
-#foto2 {
-    width: 100px;
-    margin-left: 100px;
+.principal {
+    background: #C4C3CC;
+    padding: 30px;
 }
 
 strong {
@@ -22,7 +22,7 @@ strong {
 }
 
 p {
-    text-indent: 12px;
+    text-indent: 15px;
 }
 
 h1 {
@@ -35,8 +35,8 @@ h1 {
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 10px;
-    margin-left: 590px;
-    margin-right: 590px;
+    margin-left: 550px;
+    margin-right: 550px;
     margin-top: 4px;
 }
 
@@ -50,8 +50,8 @@ h2 {
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 10px;
-    margin-left: 440px;
-    margin-right: 440px;
+    margin-left: 400px;
+    margin-right: 400px;
     margin-top: 4px;
 }
 
@@ -65,8 +65,8 @@ h3 {
     border-style: solid;
     border-color:#A32B0F;
     border-radius: 10px;
-    margin-left: 340px;
-    margin-right: 340px;
+    margin-left: 300px;
+    margin-right: 300px;
     margin-top: 4px;
 }
 
@@ -80,6 +80,34 @@ h4 {
     border-color:#A32B0F;
     border-radius: 10px;
     margin-left: 20px;
-    margin-right: 1165px;
+    margin-right: 1115px;
     margin-top: 4px;
+}
+
+.diferenças {
+    background: #fcfcfc;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+}
+
+.licenciatura {
+    width: 300px;
+}
+
+.bacharelado {
+    width: 300px;
+}
+
+.imagens ul {
+    list-style: none;
+}
+
+.imagens {
+    display: inline-block;
 }
