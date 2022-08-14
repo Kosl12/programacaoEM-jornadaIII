@@ -15,6 +15,7 @@ body {
 .principal {
     background: #C4C3CC;
     padding: 30px;
+    border-radius: 10px;
 }
 
 strong {
@@ -87,27 +88,40 @@ h4 {
 .diferenças {
     background: #fcfcfc;
     padding: 20px;
+    display: table;
 }
 
-ul {
-    display: inline-block;
-    vertical-align: top;
+.licen_bacha ul {
+    display: table-cell;
     width: 30%;
-    margin-right: 15%;
+    right: 15%;
+    float: left;
+    margin-right: 50px;
+}
+
+.licenciatura1 {
+    margin-bottom: 90px;
+    background: #7dd9f5;
+    border-radius: 5px;
+}
+
+.bacharelado1 {
+    background: #7dd9f5;
+    border-radius: 5px;
 }
 
 .licenciatura {
     width: 300px;
+    border-radius: 10px;
 }
 
 .bacharelado {
     width: 300px;
+    border-radius: 10px;
 }
 
 .imagens ul {
     list-style: none;
-}
-
-.imagens {
-    display: inline-block;
+    display: table-cell;
+    float: left;
 }
