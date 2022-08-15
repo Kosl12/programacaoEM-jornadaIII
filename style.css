@@ -19,7 +19,7 @@ body {
 }
 
 strong {
-    color: #2C58D7
+    color: #0804f7;
 }
 
 p {
@@ -30,7 +30,7 @@ h1 {
     background:#f8a18d; 
     font-size: 30px;
     text-align: center;
-    color: #300df5;
+    color: #0804f7;
 }
 
 .borda1 {
@@ -73,11 +73,12 @@ h3 {
 }
 
 h4 {
-    color: #4929fc;
+    color: #0804f7;
     font-size: 23px;
 }
 
 .borda4 {
+    background: #f8a18d;
     border-style: solid;
     border-color:#ff0101;
     border-radius: 10px;
@@ -93,7 +94,7 @@ h4 {
     display: table;
 }
 
-.licen_bacha ul {
+.diferença ul {
     display: table-cell;
     width: 30%;
     right: 15%;
@@ -114,13 +115,13 @@ h4 {
 }
 
 .licenciatura {
-    width: 700px;
+    width: 859px;
     height: 350px;
     border-radius: 10px;
 }
 
 .bacharelado {
-    width: 700px;
+    width: 859px;
     height: 350px;
     border-radius: 10px;
 }
