@@ -115,13 +115,13 @@ h4 {
 }
 
 .licenciatura {
-    width: 700px;
+    width: 830px;
     height: 350px;
     border-radius: 10px;
 }
 
 .bacharelado {
-    width: 700px;
+    width: 830px;
     height: 350px;
     border-radius: 10px;
 }
@@ -130,4 +130,9 @@ h4 {
     list-style: none;
     display: table-cell;
     float: left;
+}
+
+.foto2 {
+    
+    height: 220px;
 }
