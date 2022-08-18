@@ -13,13 +13,13 @@ body {
 }
 
 .principal {
-    background: #C4C3CC;
+    background: #81f771;
     padding: 30px;
     border-radius: 10px;
 }
 
 strong {
-    color: #f704c2;
+    color: #0804f7;
 }
 
 p {
@@ -89,9 +89,10 @@ h4 {
 }
 
 .diferenças {
-    background: #ee6767;
+    background: #eff78b;
     padding: 20px;
     display: table;
+    border-radius: 10px;
 }
 
 .diferença ul {
@@ -104,7 +105,7 @@ h4 {
 
 .licenciatura1 {
     margin-top:  100px;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
     background: #2beb7b5b;
     border-radius: 5px;
     padding: 20px;
@@ -135,6 +136,5 @@ h4 {
 }
 
 .foto2 {
-    
     height: 220px;
 }
