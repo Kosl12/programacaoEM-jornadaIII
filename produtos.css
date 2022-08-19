@@ -1,10 +1,24 @@
 .logo {
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
 }
 
 header {
     background: rgba(113, 113, 114, 0.637);
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+
 }
 
 nav li {
