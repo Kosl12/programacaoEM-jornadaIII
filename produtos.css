@@ -4,5 +4,19 @@
 }
 
 header {
-    background: rgb(63, 63, 65);
+    background: rgba(113, 113, 114, 0.637);
 }
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+ nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+ }
