@@ -57,8 +57,7 @@ h2 {
     margin-top: 4px;
 }
 
-h3 {
-    font-size: 23px; 
+h3 {font-size: 23px; 
     text-align: center;
     color: #14a1ff;
 }
@@ -67,14 +66,23 @@ h3 {
     border-style: solid;
     border-color:#fa4922;
     border-radius: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
     margin-top: 4px;
 }
 
+.regras1 {
+    background: #eff78b;
+    padding: 20px;
+    display: table;
+    border-radius: 10px;
+}
+
 h4 {
+    background:#f8a18d; 
+    font-size: 30px;
+    text-align: center;
     color: #0804f7;
-    font-size: 23px;
 }
 
 .borda4 {
@@ -88,14 +96,7 @@ h4 {
     margin-bottom: 10px;
 }
 
-.diferenças {
-    background: #eff78b;
-    padding: 20px;
-    display: table;
-    border-radius: 10px;
-}
-
-.diferença ul {
+.regras2 ul {
     display: table-cell;
     width: 30%;
     right: 15%;
@@ -103,27 +104,15 @@ h4 {
     margin-right: 50px;
 }
 
-.licenciatura1 {
-    margin-top:  100px;
+.regras3 {
+    margin-top:  10px;
     margin-bottom: 150px;
     background: #2beb7b5b;
     border-radius: 5px;
     padding: 20px;
 }
 
-.bacharelado1 {
-    background: #2beb7b5b;
-    border-radius: 5px;
-    padding: 20px;
-}
-
-.licenciatura {
-    width: 830px;
-    height: 350px;
-    border-radius: 10px;
-}
-
-.bacharelado {
+.linhas {
     width: 830px;
     height: 350px;
     border-radius: 10px;
