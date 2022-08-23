@@ -13,13 +13,13 @@ body {
 }
 
 .principal {
-    background: #81f771;
+    background: #f8f5e5;
     padding: 30px;
     border-radius: 10px;
 }
 
 strong {
-    color: #0804f7;
+    color: #00f05c;
 }
 
 p {
@@ -27,15 +27,15 @@ p {
 }
 
 h1 {
-    background:#f8a18d; 
+    background:#000000; 
     font-size: 30px;
     text-align: center;
-    color: #0804f7;
+    color: #ffffff;
 }
 
 .borda1 {
     border-style: solid;
-    border-color:#ff0101;
+    border-color:#01ccff;
     border-radius: 10px;
     margin-left: 585px;
     margin-right: 585px;
@@ -45,7 +45,7 @@ h1 {
 h2 {
     font-size: 23px; 
     text-align: center;
-    color: #14a1ff;
+    color: #7f9220;
 }
 
 .borda2 {
@@ -60,12 +60,12 @@ h2 {
 h3 {
     font-size: 23px; 
     text-align: center;
-    color: #14a1ff;
+    color: #7f9220;
 }
 
 .borda3 {
     border-style: solid;
-    border-color:#fa4922;
+    border-color:#eb0808;
     border-radius: 10px;
     margin-left: 300px;
     margin-right: 300px;
@@ -73,21 +73,21 @@ h3 {
 }
 
 .regras {
-    background: #eff78b;
+    background: #BBC299;
     padding: 20px;
     display: table;
     border-radius: 10px;
 }
 
 h4 {
-    color: #0804f7;
+    color: #617ae9;
     font-size: 23px;
 }
 
 .borda4 {
-    background: #f8a18d;
+    \\background: #f8451c;
     border-style: solid;
-    border-color:#ff0101;
+    border-color:#f51717;
     border-radius: 10px;
     margin-left: 20px;
     margin-right: 1115px;
@@ -103,12 +103,17 @@ h4 {
     margin-right: 50px;
 }
 
-.regras2 {
+.curiosidade {
     margin-top:  100px;
     margin-bottom: 150px;
-    background: #2beb7b5b;
+    background: #ffdf9ee3;
     border-radius: 5px;
     padding: 20px;
+}
+
+li {
+    font-size: 20px;
+    color: #617ae9;
 }
 
 .quadra {
