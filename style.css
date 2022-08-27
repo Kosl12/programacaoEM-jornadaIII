@@ -85,18 +85,24 @@ h4 {
 }
 
 .borda4 {
+    text-align: right;
     \\background: #f8451c;
-    border-style: solid;
-    border-color:#f51717;
-    border-radius: 10px;
-    margin-left: 20px;
-    margin-right: 1115px;
-    margin-top: 4px;
-    margin-bottom: 10px;
+    \\border-style: solid;
+    \\border-color:#f51717;
+    \\border-radius: 10px;
+    \\margin-left: 20px;
+    \\margin-right: 1115px;
+    \\margin-top: 4px;
+    \\margin-bottom: 10px;
+}
+
+li {
+    text-align: center;
 }
 
 .regras1 ul {
     display: table-cell;
+    list-style: none;
     width: 30%;
     right: 15%;
     float: left;
@@ -104,8 +110,8 @@ h4 {
 }
 
 .curiosidade {
-    margin-top:  100px;
-    margin-bottom: 150px;
+    margin-top: 0px;
+    margin-bottom: 130px;
     background: #ffdf9ee3;
     border-radius: 5px;
     padding: 20px;
@@ -122,7 +128,7 @@ li {
     border-radius: 10px;
 }
 
-.quadraimg ul {
+.fotoquadra ul {
     list-style: none;
     display: table-cell;
     float: left;
