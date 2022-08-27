@@ -35,7 +35,7 @@ h1 {
 
 .borda1 {
     border-style: solid;
-    border-color:#01ccff;
+    \\border-color:#01ccff;
     border-radius: 10px;
     margin-left: 585px;
     margin-right: 585px;
@@ -45,42 +45,42 @@ h1 {
 h2 {
     font-size: 23px; 
     text-align: center;
-    color: #7f9220;
+    color: #000000;
 }
 
 .borda2 {
-    border-style: solid;
-    border-color:#fa4922;
-    border-radius: 10px;
-    margin-left: 400px;
-    margin-right: 400px;
+    \\border-style: solid;
+    \\border-color:#fa4922;
+    \\border-radius: 10px;
+    \\margin-left: 400px;
+    \\margin-right: 400px;
     margin-top: 4px;
 }
 
 h3 {
     font-size: 23px; 
     text-align: center;
-    color: #7f9220;
+    color: #000000;
 }
 
 .borda3 {
-    border-style: solid;
-    border-color:#eb0808;
-    border-radius: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
+    \\border-style: solid;
+    \\border-color:#eb0808;
+    \\border-radius: 10px;
+    \\margin-left: 300px;
+    \\margin-right: 300px;
     margin-top: 4px;
 }
 
 .regras {
-    background: #BBC299;
+    background: #e7eec4;
     padding: 20px;
     display: table;
     border-radius: 10px;
 }
 
 h4 {
-    color: #617ae9;
+    color: #000000;
     font-size: 23px;
 }
 
@@ -119,7 +119,7 @@ li {
 
 li {
     font-size: 20px;
-    color: #617ae9;
+    color: #000000;
 }
 
 .quadra {
