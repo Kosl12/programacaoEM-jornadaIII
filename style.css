@@ -27,18 +27,18 @@ p {
 }
 
 h1 {
-    background:#000000; 
+    \\background:#000000; 
     font-size: 30px;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 }
 
 .borda1 {
-    border-style: solid;
+    \\border-style: solid;
     \\border-color:#01ccff;
-    border-radius: 10px;
-    margin-left: 585px;
-    margin-right: 585px;
+    \\border-radius: 10px;
+    \\margin-left: 585px;
+    \\margin-right: 585px;
     margin-top: 4px;
 }
 
