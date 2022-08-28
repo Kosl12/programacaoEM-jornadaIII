@@ -7,21 +7,21 @@ body {
 }
 
 h1 {
-    \\background:#000000; 
+    background:#001aff; 
     font-size: 35px;
     text-align: center;
-    color: #000000;
+    color: #ffffff;
     margin-top: -1%;
     margin-bottom: 0%;
 }
 
 .borda1 {
-    \\border-style: solid;
-    \\border-color:#01ccff;
-    \\border-radius: 10px;
-    \\margin-left: 585px;
-    \\margin-right: 585px;
-    \\margin-top: 4px;
+    border-style: solid;
+    border-color:#ff0505;
+    border-radius: 10px;
+    margin-left: 585px;
+    margin-right: 585px;
+    margin-top: 0px;
 }
 
 #foto1 { 
@@ -31,13 +31,13 @@ h1 {
 }
 
 .principal {
-    background: #f7eaa6;
+    background: #a1b0f5a4;
     padding: 30px;
     border-radius: 10px;
 }
 
 strong {
-    color: #00f05c;
+    
 }
 
 p {
@@ -78,7 +78,7 @@ h3 {
 }
 
 .container {
-    background: #e7eec4;
+    background: #f79e9e8a;
     padding: 20px;
     display: table;
     border-radius: 10px;
@@ -122,7 +122,7 @@ li {
 .curiosidade {
     margin-top: 0px;
     margin-bottom: 130px;
-    background: #ffdf9ee3;
+    background: #ffffff;
     border-radius: 5px;
     padding: 20px;
 }
