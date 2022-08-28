@@ -110,7 +110,7 @@ li {
     text-align: center;
 }
 
-.regras ul {
+.curi ul {
     display: table-cell;
     list-style: none;
     width: 30%;
@@ -127,9 +127,10 @@ li {
     padding: 20px;
 }
 
-li {
+h5 {
     font-size: 23px;
     color: #000000;
+    margin-bottom: 0%;
 }
 
 .quadra {
@@ -142,6 +143,12 @@ li {
     list-style: none;
     display: table-cell;
     float: left;
+}
+
+h6 {
+    color: #000000;
+    font-size: 23px;
+    margin-bottom: 0%;
 }
 
 .nba {
