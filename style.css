@@ -72,11 +72,12 @@ h3 {
     margin-top: 4px;
 }
 
-.regras {
+.container {
     background: #e7eec4;
     padding: 20px;
     display: table;
     border-radius: 10px;
+    position: relative;
 }
 
 h4 {
@@ -85,7 +86,11 @@ h4 {
 }
 
 .borda4 {
-    text-align: right;
+    position: absolute;
+    top: 0;
+    left: 60%;
+    margin-top: 10px;
+
     \\background: #f8451c;
     \\border-style: solid;
     \\border-color:#f51717;
@@ -100,7 +105,7 @@ li {
     text-align: center;
 }
 
-.regras1 ul {
+.regras ul {
     display: table-cell;
     list-style: none;
     width: 30%;
@@ -118,7 +123,7 @@ li {
 }
 
 li {
-    font-size: 20px;
+    font-size: 23px;
     color: #000000;
 }
 
