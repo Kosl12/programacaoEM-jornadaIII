@@ -156,7 +156,7 @@ h6 {
     height: 220px;
 }
 
-h7 {
+.rodape {
+    font-size: 35px;
     text-align: center;
-    font-size: 40px;
 }
