@@ -25,7 +25,7 @@ h1 {
 }
 
 #foto1 { 
-    width: 100%;
+    width: auto;
     height: 200px;
     border-radius: 10px;
     object-fit: cover;
