@@ -145,6 +145,7 @@ h5 {
     list-style: none;
     display: table-cell;
     float: left;
+    object-fit: cover;
 }
 
 h6 {
@@ -155,7 +156,6 @@ h6 {
 
 .nba {
     height: 220px;
-    object-fit: cover;
 }
 
 .rodape {
