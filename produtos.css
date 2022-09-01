@@ -90,3 +90,13 @@ nav a:hover {
     height: 200px;
     padding: 20px;
  }
+
+ footer {
+    text-align: center;
+    background: url();
+ }
+
+ .logo-jordan {
+    width: 200px;
+    height: 200px;
+ }
