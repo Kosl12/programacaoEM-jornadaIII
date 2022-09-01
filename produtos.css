@@ -34,17 +34,59 @@ nav li {
     text-decoration: none;    
  }
 
- .bola {
-    width: 200px;
-    height: 200px;
+nav a:hover {
+    color: rgb(255, 136, 0);
+    text-decoration: underline;
+}
+
+ .produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
  }
 
- .uniforme {
-    width: 200px;
-    height: 200px;
+ .produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
  }
 
- .tenis {
+ .produtos li:hover {
+    border-color: rgb(255, 136, 0);
+ }
+
+.produtos li:active {
+    border-color: rgb(9, 160, 9);
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
+ .produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+
+ }
+
+ .produto-descriçao {
+    font-size: 18px;
+}
+
+ .produto-preço {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+ }
+
+ .img {
     width: 200px;
     height: 200px;
+    padding: 20px;
  }
