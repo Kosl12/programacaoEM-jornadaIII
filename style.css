@@ -19,8 +19,8 @@ h1 {
     border-style: solid;
     border-color:#ff0505;
     border-radius: 10px;
-    margin-left: 572px;
-    margin-right: 572px;
+    margin-left: 500px;
+    margin-right: 500px;
     margin-top: 0px;
 }
 
@@ -147,13 +147,13 @@ h5 {
     display: table-cell;
     float: left;
     object-fit: cover;
-    margin-bottom: 50px;
 }
 
 h6 {
     color: #000000;
     font-size: 23px;
     margin-bottom: 0%;
+    margin-top: 450px;
 }
 
 .nba {
