@@ -96,6 +96,11 @@ nav a:hover {
     background: url(fundo.jpg);
  }
 
+ footer p {
+   margin-top: 15px;
+   color: rgb(255, 255, 255);
+ }
+
  .logo-jordan {
     width: 200px;
     height: 200px;
