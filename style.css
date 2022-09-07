@@ -55,29 +55,11 @@ h2 {
     margin-bottom: 0%;
 }
 
-.borda2 {
-    \\border-style: solid;
-    \\border-color:#fa4922;
-    \\border-radius: 10px;
-    \\margin-left: 400px;
-    \\margin-right: 400px;
-    \\margin-top: 4px;
-}
-
 h3 {
     font-size: 23px; 
     text-align: center;
     color: #000000;
     margin-bottom: 0%;
-}
-
-.borda3 {
-    \\border-style: solid;
-    \\border-color:#eb0808;
-    \\border-radius: 10px;
-    \\margin-left: 300px;
-    \\margin-right: 300px;
-    \\margin-top: 4px;
 }
 
 .container {
@@ -98,19 +80,6 @@ h4 {
     top: 0;
     left: 60%;
     margin-top: 10px;
-
-    \\background: #f8451c;
-    \\border-style: solid;
-    \\border-color:#f51717;
-    \\border-radius: 10px;
-    \\margin-left: 20px;
-    \\margin-right: 1115px;
-    \\margin-top: 4px;
-    \\margin-bottom: 10px;
-}
-
-li {
-    text-align: center;
 }
 
 .curi ul {
@@ -138,17 +107,17 @@ h5 {
     margin-bottom: 0%;
 }
 
-.quadra {
-    width: 730px;
-    height: 350px;
-    border-radius: 10px;
-}
-
 .fotoquadra ul {
     list-style: none;
     display: table-cell;
     float: left;
     object-fit: cover;
+}
+
+.quadra {
+    width: 730px;
+    height: 350px;
+    border-radius: 10px;
 }
 
 h6 {
