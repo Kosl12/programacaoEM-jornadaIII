@@ -39,20 +39,16 @@ h1 {
     border-radius: 10px;
 }
 
-strong {
-    
-}
-
-p {
-    text-indent: 15px;
-}
-
 h2 {
     font-size: 23px; 
     text-align: center;
     color: #000000;
     margin-top: -1%;
     margin-bottom: 0%;
+}
+
+p {
+    text-indent: 10px;
 }
 
 h3 {
