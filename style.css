@@ -7,12 +7,12 @@ body {
 }
 
 h1 {
-    \\background:#001aff; 
-    \\font-size: 35px;
-    \\text-align: center;
-    \\color: #ffffff;
-   \\margin-top: -1%;
-    \\margin-bottom: 0%;
+    background:#001aff; 
+    font-size: 35px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: -1%;
+    margin-bottom: 0%;
 }
 
 .borda1 {
@@ -49,7 +49,7 @@ h2 {
     font-size: 23px; 
     text-align: center;
     color: #000000;
-    margin-top: -2%;
+    margin-top: -1%;
     margin-bottom: 0%;
 }
 
@@ -70,12 +70,12 @@ h3 {
 }
 
 .borda3 {
-    border-style: solid;
-    border-color:#eb0808;
-    border-radius: 10px;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-top: 4px;
+    \\border-style: solid;
+    \\border-color:#eb0808;
+    \\border-radius: 10px;
+    \\margin-left: 300px;
+    \\margin-right: 300px;
+    \\margin-top: 4px;
 }
 
 .container {
@@ -129,6 +129,7 @@ li {
 }
 
 h5 {
+    text-align: center;
     margin-top: 0%;
     font-size: 23px;
     color: #000000;
@@ -136,7 +137,7 @@ h5 {
 }
 
 .quadra {
-    width: 830px;
+    width: 730px;
     height: 350px;
     border-radius: 10px;
 }
@@ -146,6 +147,7 @@ h5 {
     display: table-cell;
     float: left;
     object-fit: cover;
+    margin-bottom: 40px;
 }
 
 h6 {
