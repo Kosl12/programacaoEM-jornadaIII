@@ -84,7 +84,7 @@ h4 {
     width: 30%;
     right: 15%;
     float: left;
-    margin-right: 50px;
+    margin-right: 85px;
 }
 
 .curiosidade {
@@ -103,28 +103,16 @@ h5 {
     margin-bottom: 0%;
 }
 
-.fotoquadra ul {
-    list-style: none;
-    display: table-cell;
-    float: left;
-    object-fit: cover;
-}
-
 .quadra {
-    width: 730px;
-    height: 350px;
+    width: 60%;
     border-radius: 10px;
+    margin-top: 30px;
 }
 
 h6 {
+    text-align: center;
     color: #000000;
     font-size: 23px;
-    margin-bottom: 0%;
-    margin-top: 450px;
-}
-
-.regras ul {
-    margin-left: 400px;
 }
 
 .nba {
