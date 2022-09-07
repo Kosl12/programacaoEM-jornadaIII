@@ -94,11 +94,13 @@ nav a:hover {
  footer {
     text-align: center;
     background: url(fundo.jpg);
+    padding: 10px 0;
  }
 
- footer p {
+ .copyrigth {
    margin-top: 15px;
    color: rgb(255, 255, 255);
+   font-size: 13px;
  }
 
  .logo-jordan {
