@@ -8,27 +8,15 @@ body {
     margin: 0 auto;
 }
 
-.logo {
-    width: 250px;
-    height: 250px;
-}
-
+/*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
-    background: rgba(113, 113, 114, 0.637);
     padding: 20px 0;
 }
 
 .caixa {
     position: relative;
-    width: 940px;
+    width: 400px;
     margin: 0 auto;
-}
-
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
-
 }
 
 nav li {
@@ -36,7 +24,7 @@ nav li {
     margin: 0 0 0 15px;
 }
 
- nav a {
+nav a {
     text-transform: uppercase;
     color: black;
     font-weight: bold;
@@ -49,11 +37,12 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/*HOME*/
+
 h1 {
-    background:#001aff; 
     font-size: 35px;
     text-align: center;
-    color: #ffffff;
+    color: #1a01fd;
     margin-top: -1%;
     margin-bottom: 0%;
 }
