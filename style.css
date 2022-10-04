@@ -153,5 +153,5 @@ nav a:hover {
 
  .enviar:hover {
    background: rgb(1, 163, 1);
-   transform: rotate(70deg) scale(1.2);
+   transform: rotate(30deg) scale(1.2) rotate(0deg);
  }
