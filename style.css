@@ -147,11 +147,11 @@ nav a:hover {
    font-size: 18px;
    border: none;
    border-radius: 5px;
-   transition: 1s all;
+   transition: 2s ease-in-out;
    cursor: pointer;
  }
 
  .enviar:hover {
    background: rgb(1, 163, 1);
-   transform: rotate(30deg) scale(1.2) rotate(0deg);
+   transform: rotate(360deg) scale(1.2);
  }
