@@ -157,3 +157,17 @@ nav a:hover {
  }
 
  /*Tabela de horario*/
+
+ table {
+   margin: 20px 0 40px;
+ }
+
+ thead {
+   background: royalblue;
+   color: black;
+   font-weight: bold;
+ }
+
+ td, th {
+   border: 1px solid #000000;
+ }
