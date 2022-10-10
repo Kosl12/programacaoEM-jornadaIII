@@ -1,8 +1,8 @@
 /*produtos de venda*/
 
 .logo {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
 }
 
 header {
@@ -12,13 +12,13 @@ header {
 
 .caixa {
     position: relative;
-    width: 940px;
+    width: 740px;
     margin: 0 auto;
 }
 
 nav {
     position: absolute;
-    top: 110px;
+    top: 130px;
     right: 0;
 
 }
