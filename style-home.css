@@ -139,13 +139,9 @@ h6 {
     font-size: 23px;
 }
 
-.nba {
+.nba, .nbb {
     height: 220px;
-    width: 300px;
-}
-
-.nbb {
-    height: 220px;
+    width: 250px;
 }
 
 .rodape {
