@@ -170,4 +170,5 @@ nav a:hover {
 
  td, th {
    border: 1px solid #000000;
+   padding: 8 px 15px;
  }
