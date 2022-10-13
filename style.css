@@ -201,14 +201,8 @@ nav a:hover {
   font-weight: bold;
 }
 
-<<<<<<< HEAD
 .panfleto {
   width: 150px;
-=======
-.planfleto {
-  width: 250px;
-  height: 150px;
->>>>>>> 059c7c0e39a095378460465516e1083c5ea16d45
   float: left;
   margin: 0 20px 20px 0;
 }
