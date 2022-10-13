@@ -105,65 +105,65 @@ nav a:hover {
 
 /*formulário/ CONTATO*/
 
- main {
-   
- }
+main {
+  
+}
 
- form {
-   margin: 40px 0;
- }
+form {
+  margin: 40px 0;
+}
 
- form label, form legend {
-   display: block;
-   font-size: 20px;
-   margin: 0 0 10px;
- }
+form label, form legend {
+  display: block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
 
- .input-padrao {
-   display: block;
-   margin: 0 0 20px;
-   padding: 10px 25px;
-   width: 50%;
- }
+.input-padrao {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
 
- .checkbox {
-   margin: 20px 0;
- }
+.checkbox {
+  margin: 20px 0;
+}
 
- .enviar {
-   width: 40%;
-   padding: 15px 0;
-   background: rgb(255, 115, 0);
-   color: rgb(252, 252, 252);
-   font-weight: bold;
-   font-size: 18px;
-   border: none;
-   border-radius: 5px;
-   transition: 2s ease-in-out;
-   cursor: pointer;
- }
+.enviar {
+  width: 40%;
+  padding: 15px 0;
+  background: rgb(255, 115, 0);
+  color: rgb(252, 252, 252);
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  transition: 2s ease-in-out;
+  cursor: pointer;
+}
 
- .enviar:hover {
-   background: rgb(1, 163, 1);
-   transform: rotate(360deg) scale(1.2);
- }
+.enviar:hover {
+  background: rgb(1, 163, 1);
+  transform: rotate(360deg) scale(1.2);
+}
 
- /*Tabela de horario*/
+/*Tabela de horario*/
 
- table {
-   margin: 20px 0 40px;
- }
+table {
+  margin: 20px 0 40px;
+}
 
- thead {
-   background: royalblue;
-   color: black;
-   font-weight: bold;
- }
+thead {
+  background: royalblue;
+  color: black;
+  font-weight: bold;
+}
 
- td, th {
-   border: 1px solid #000000;
-   padding: 8px 15px;
- }
+td, th {
+  border: 1px solid #000000;
+  padding: 8px 15px;
+}
 
  /* Css da pagina inicial */
 
