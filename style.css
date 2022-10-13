@@ -1,4 +1,8 @@
-/*produtos de venda*/
+body {
+  font-family: 'Nunito', sans-serif; 
+}
+
+/*Produtos de venda*/
 
 .logo {
     width: 300px;
@@ -171,4 +175,82 @@ nav a:hover {
  td, th {
    border: 1px solid #000000;
    padding: 8px 15px;
+ }
+
+ /* Css da pagina inicial */
+
+.banner {
+  width: 100%;
+  height: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.titulo-principal {
+  text-align: center;
+  font-size: 2em;
+  margin: 0 0 1em;
+  clear: left;
+}
+
+.principal p {
+  margin: 0 0 1em;
+}
+
+.principal strong {
+  font-weight: bold;
+}
+
+.panfleto {
+  width: 150px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.mapa {
+  padding: 3em 0;
+  text-align: center;
+}
+
+.mapa p {
+  margin: 0 0 2em;
+}
+
+.beneficios {
+  padding: 3em 0;
+}
+
+.conteudo-beneficios {
+  width: 640px;
+  margin: 0 auto;
+}
+
+.lista-beneficios {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.itens {
+  line-height: 1.5;
+}
+
+.itens:first-child {
+  font-weight: bold;
+}
+
+
+.imagem-beneficios {
+  width: 60%;
+}
+
+.video {
+  width: 560px;
+  margin: 2em auto;
+ }
+
+
+.logo-basquete {
+  width: 250px;
+  height: 250px;
  }

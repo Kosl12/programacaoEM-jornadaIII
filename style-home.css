@@ -39,23 +39,6 @@ nav a:hover {
 
 /*HOME*/
 
-h1 {
-    font-size: 35px;
-    text-align: center;
-    color: #1a01fd;
-    margin-top: -1%;
-    margin-bottom: 0%;
-}
-
-.borda1 {
-    border-style: solid;
-    border-color:#37bb02;
-    border-radius: 10px;
-    margin-left: 500px;
-    margin-right: 500px;
-    margin-top: 0px;
-}
-
 #foto1 { 
     width: 100%;
     height: 250px;
